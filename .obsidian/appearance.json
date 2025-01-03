@@ -1,3 +1,11 @@
 {
-  "accentColor": ""
+  "accentColor": "#9c7f16",
+  "cssTheme": "Solarized",
+  "interfaceFontFamily": "JetBrains Mono,Menlo",
+  "textFontFamily": "JetBrains Mono,Menlo",
+  "monospaceFontFamily": "JetBrains Mono,Menlo",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "baseFontSize": 14
 }
